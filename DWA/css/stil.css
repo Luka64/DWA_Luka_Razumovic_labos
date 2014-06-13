@@ -1,0 +1,161 @@
+.login-screen {
+	margin-top: 200px;
+	margin-left: 100px;
+}
+
+.logo {
+	float: left;
+}
+
+.logo p {
+	font-weight: bold;
+	font-size: 15px;
+	padding-left: 70px;
+}
+
+.login-screen form {
+	float: left;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+.footer {
+	margin-top: 100px;
+}
+
+.footer2 {
+	margin-top: 100px;
+	background-color: #88B51E;
+	background-color: #14786D;
+}
+
+.footer-text{
+	width: 150px;
+	margin: 0 auto;
+	display: block;
+}
+
+
+/* login.php */
+.logout {
+	float: right;
+	margin: 10px;
+	margin-top: 26px;
+}
+
+.navigacija {
+	width: 270px;
+	float: left;
+}
+
+.navigacija ul {
+	display: block;
+	list-style: none;
+}
+
+.navigacija ul li {
+	margin-top: 25px;
+}
+
+.navigacija ul li a {
+	text-decoration: none;
+	background-color: #cd0114;
+	padding: 10px;
+	color: #FFF;
+	font-weight: bold;
+}
+
+.navigacija ul li a:hover{
+	background-color: #4335fb;
+}
+
+.sadrzaj {
+	width: 670px;
+	float: left;
+	margin-left: 20px;
+}
+
+.header {
+	background-color: #BC1F2A;
+	background-color: #7A0A12;
+	background-color: #DE535D;
+}
+
+
+/* popis_pacijenata.php */
+
+.popis tr {
+	background-color: #b5fafb;
+	width: 150px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.red:hover{
+	background-color: #4c60f8;
+}
+
+
+.reklamaStil {
+	background-color: #CCC;
+	color: red;
+	font-weight: bold;
+	height: 200px;
+	width: 300px;
+	text-align: center;
+	line-height: 200px;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.login-screen {
+  top: 50px;
+  left: 334px;
+}
+
+.osobniPodaci ul li {
+	list-style: none;
+	display: block;
+	float: left;
+}
+
+.margin-left {
+	margin-left: 5px;
+}
+
+.osobniPodaci ul li a {
+	text-decoration: none;
+	padding: 10px;
+	background-color: #565656;
+	font-weight: bold;
+	color: #FFF;
+}
+
+.osobniPodaci ul li a:hover {
+	background-color: #890000;
+}
+
+.JSONbutton {
+	margin-top: 15px;
+	height: 30px;
+	background-color: #0db745;
+	border: none;
+	color: #FFF;
+	font-weight: bold;
+}
+
+.JSONbutton:hover {
+	background-color: #b70d19;
+}
+
+.disabledButton {
+	margin-top: 15px;
+	height: 30px;
+	background-color: #cfcfcf;
+	border: none;
+	color: #000000;
+	font-weight: bold;
+}
